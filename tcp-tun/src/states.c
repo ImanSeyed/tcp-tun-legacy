@@ -3,10 +3,10 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include "utility/tcp_utility.h"
-#include "utility/ipv4_utility.h"
-#include "common/types.h"
-#include "states.h"
+#include "../include/utils/tcp_utility.h"
+#include "../include/utils/ipv4_utility.h"
+#include "../include/common/types.h"
+#include "../include/states.h"
 
 #define TCP_PROTO 0x06
 
